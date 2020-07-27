@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="mobeixapi.utilities.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="iam.USERS.update_users.TC_19_Update_user_by_two_factor_status">
+        <methods>
+          <include name="updateUser"/>
+          <include name="TC__19_Update_user_by_two_factor_status"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- iam.USERS.update_users.TC_19_Update_user_by_two_factor_status -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9172" started-at="2020-07-27T09:27:42Z" finished-at="2020-07-27T09:27:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9172" started-at="2020-07-27T09:27:42Z" finished-at="2020-07-27T09:27:51Z">
+      <class name="iam.USERS_get_list_of_users.TC_02_3_verify_whether_user_able_to_get_all_ACTIVE_status_user_information2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_02_3_verify_whether_user_able_to_get_all_ACTIVE_status_user_information2@7085bdee]" name="setup" is-config="true" duration-ms="3" started-at="2020-07-27T14:57:44Z" finished-at="2020-07-27T14:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList()[pri:0, instance:iam.USERS_get_list_of_users.TC_02_3_verify_whether_user_able_to_get_all_ACTIVE_status_user_information2@7085bdee]" name="getuserList" is-config="true" duration-ms="1111" started-at="2020-07-27T14:57:44Z" finished-at="2020-07-27T14:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList -->
+        <test-method status="PASS" signature="TC__02_03_verify_whether_user_able_to_get_all_ACTIVE_user_information2()[pri:0, instance:iam.USERS_get_list_of_users.TC_02_3_verify_whether_user_able_to_get_all_ACTIVE_status_user_information2@7085bdee]" name="TC__02_03_verify_whether_user_able_to_get_all_ACTIVE_user_information2" duration-ms="141" started-at="2020-07-27T14:57:46Z" finished-at="2020-07-27T14:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC__02_03_verify_whether_user_able_to_get_all_ACTIVE_user_information2 -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_02_3_verify_whether_user_able_to_get_all_ACTIVE_status_user_information2 -->
+      <class name="iam.USERS_get_list_of_users.TC_7_verify_whether_user_able_to_get_userinformation_with_sameUSERID_with_different_group">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_7_verify_whether_user_able_to_get_userinformation_with_sameUSERID_with_different_group@5bcab519]" name="setup" is-config="true" duration-ms="4" started-at="2020-07-27T14:57:50Z" finished-at="2020-07-27T14:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList1()[pri:0, instance:iam.USERS_get_list_of_users.TC_7_verify_whether_user_able_to_get_userinformation_with_sameUSERID_with_different_group@5bcab519]" name="getuserList1" is-config="true" duration-ms="1078" started-at="2020-07-27T14:57:50Z" finished-at="2020-07-27T14:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList1 -->
+        <test-method status="PASS" signature="TC_7_verify_whether_user__able_to_get_userinformation_with_sameUSERID_with_different_group()[pri:0, instance:iam.USERS_get_list_of_users.TC_7_verify_whether_user_able_to_get_userinformation_with_sameUSERID_with_different_group@5bcab519]" name="TC_7_verify_whether_user__able_to_get_userinformation_with_sameUSERID_with_different_group" duration-ms="203" started-at="2020-07-27T14:57:51Z" finished-at="2020-07-27T14:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_7_verify_whether_user__able_to_get_userinformation_with_sameUSERID_with_different_group -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_7_verify_whether_user_able_to_get_userinformation_with_sameUSERID_with_different_group -->
+      <class name="iam.USERS_get_list_of_users.TC_4_verify_whether_user_able_to_get_all_INACTIVE_status_all_user_information">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_4_verify_whether_user_able_to_get_all_INACTIVE_status_all_user_information@1ce92674]" name="setup" is-config="true" duration-ms="3" started-at="2020-07-27T14:57:46Z" finished-at="2020-07-27T14:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList()[pri:0, instance:iam.USERS_get_list_of_users.TC_4_verify_whether_user_able_to_get_all_INACTIVE_status_all_user_information@1ce92674]" name="getuserList" is-config="true" duration-ms="1073" started-at="2020-07-27T14:57:46Z" finished-at="2020-07-27T14:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList -->
+        <test-method status="PASS" signature="TC__4_verify_whether_user_able_to_get_all_INACTIVE_all_user_information()[pri:0, instance:iam.USERS_get_list_of_users.TC_4_verify_whether_user_able_to_get_all_INACTIVE_status_all_user_information@1ce92674]" name="TC__4_verify_whether_user_able_to_get_all_INACTIVE_all_user_information" duration-ms="191" started-at="2020-07-27T14:57:47Z" finished-at="2020-07-27T14:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC__4_verify_whether_user_able_to_get_all_INACTIVE_all_user_information -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_4_verify_whether_user_able_to_get_all_INACTIVE_status_all_user_information -->
+      <class name="iam.USERS_get_list_of_users.TC_5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2@5700d6b1]" name="setup" is-config="true" duration-ms="2" started-at="2020-07-27T14:57:47Z" finished-at="2020-07-27T14:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList()[pri:0, instance:iam.USERS_get_list_of_users.TC_5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2@5700d6b1]" name="getuserList" is-config="true" duration-ms="1071" started-at="2020-07-27T14:57:47Z" finished-at="2020-07-27T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList -->
+        <test-method status="PASS" signature="TC__5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2()[pri:0, instance:iam.USERS_get_list_of_users.TC_5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2@5700d6b1]" name="TC__5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2" duration-ms="175" started-at="2020-07-27T14:57:48Z" finished-at="2020-07-27T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC__5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2 -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_5_verify_whether_user_able_to_get_all_DELETED_status_all_user_information2 -->
+      <class name="iam.USERS_get_list_of_users.TC_01_verify_whether_user_able_to_get_all_user_information">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_01_verify_whether_user_able_to_get_all_user_information@73ad2d6]" name="setup" is-config="true" duration-ms="19" started-at="2020-07-27T14:57:42Z" finished-at="2020-07-27T14:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList()[pri:0, instance:iam.USERS_get_list_of_users.TC_01_verify_whether_user_able_to_get_all_user_information@73ad2d6]" name="getuserList" is-config="true" duration-ms="2298" started-at="2020-07-27T14:57:42Z" finished-at="2020-07-27T14:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList -->
+        <test-method status="PASS" signature="TC__01_verify_whether_user_able_to_get_all_user_information()[pri:0, instance:iam.USERS_get_list_of_users.TC_01_verify_whether_user_able_to_get_all_user_information@73ad2d6]" name="TC__01_verify_whether_user_able_to_get_all_user_information" duration-ms="50" started-at="2020-07-27T14:57:44Z" finished-at="2020-07-27T14:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC__01_verify_whether_user_able_to_get_all_user_information -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_01_verify_whether_user_able_to_get_all_user_information -->
+      <class name="iam.USERS_get_list_of_users.TC_6_verify_whether_user_able_to_get_userinformation_with_different_group">
+        <test-method status="PASS" signature="setup()[pri:0, instance:iam.USERS_get_list_of_users.TC_6_verify_whether_user_able_to_get_userinformation_with_different_group@6fd02e5]" name="setup" is-config="true" duration-ms="3" started-at="2020-07-27T14:57:48Z" finished-at="2020-07-27T14:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getuserList1()[pri:0, instance:iam.USERS_get_list_of_users.TC_6_verify_whether_user_able_to_get_userinformation_with_different_group@6fd02e5]" name="getuserList1" is-config="true" duration-ms="1149" started-at="2020-07-27T14:57:48Z" finished-at="2020-07-27T14:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserList1 -->
+        <test-method status="PASS" signature="TC_6_verify_whether_user_able_to_get_userinformation_with__different_group()[pri:0, instance:iam.USERS_get_list_of_users.TC_6_verify_whether_user_able_to_get_userinformation_with_different_group@6fd02e5]" name="TC_6_verify_whether_user_able_to_get_userinformation_with__different_group" duration-ms="499" started-at="2020-07-27T14:57:49Z" finished-at="2020-07-27T14:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_6_verify_whether_user_able_to_get_userinformation_with__different_group -->
+      </class> <!-- iam.USERS_get_list_of_users.TC_6_verify_whether_user_able_to_get_userinformation_with_different_group -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
